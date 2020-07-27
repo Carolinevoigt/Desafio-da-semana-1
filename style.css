@@ -1,0 +1,22 @@
+body {
+    text-align: justify;
+    font-family: "Arial";
+    background-color:rgb(191, 248, 248);
+    margin: 2cm;
+}
+
+h1 {
+    font-size: 35px;
+}
+.item {
+    background-color: turquoise;
+    padding: 20px;
+}
+
+input [type-text] {
+    color: darkblue;
+}
+
+input [type-number] {
+    color: navy;
+}
